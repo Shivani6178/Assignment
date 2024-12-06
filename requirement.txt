@@ -1,0 +1,6 @@
+ransformers
+sentencepiece
+streamlit 
+pandas 
+pytrends
+python-dotenv
