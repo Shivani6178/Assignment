@@ -1,6 +1,0 @@
-transformers
-sentencepiece
-streamlit 
-pandas 
-pytrends
-python-dotenv
