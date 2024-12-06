@@ -1,0 +1,55 @@
+{
+    "brandName": "Renu Oberoi",
+    "brandMessage": "At Renu Oberoi Luxury Jewellery, we celebrate the art of fine craftsmanship and timeless beauty. Our creations are for the discerning, sophisticated woman who values elegance and exclusivity.",
+    "toneOfVoice": {
+        "description": "Our tone of voice is luxurious, elegant, and aspirational, designed to engage a high-end clientele while maintaining a personal connection.",
+        "tones": {
+            "joyous": {
+                "examples": [
+                    {
+                        "message": "Indulge in the joy of owning a masterpiece, crafted just for you.",
+                        "context": "Used for celebratory moments like new collections, festive seasons, or customer appreciation."
+                    }
+                ]
+            },
+            "grief": {
+                "examples": [
+                    {
+                        "message": "We extend our heartfelt support to you during these trying times.",
+                        "context": "Used in messages of condolence or during sensitive times, expressing empathy and support."
+                    }
+                ]
+            },
+            "formal": {
+                "examples": [
+                    {
+                        "message": "We are honored to present our exclusive collection, featuring the finest diamonds and gemstones.",
+                        "context": "Used for official announcements, product launches, or high-profile events."
+                    }
+                ]
+            }
+        }
+    },
+    "colorDescription": "Our brand embraces timeless sophistication with a palette that includes rich golds, royal purples, and deep jewel tones like emerald and ruby. These colors symbolize luxury, opulence, and elegance.",
+    "fontUsage": {
+        "headings": "Elegant serif font for headings, symbolizing the timelessness and refinement of our designs.",
+        "body": "Clean sans-serif font for body text to ensure readability while maintaining a luxurious feel."
+    },
+    "socialMediaGuidelines": {
+        "postTypes": [
+            "New Collection Launches",
+            "Customer Testimonials",
+            "Exclusive Events",
+            "Behind-the-Scenes"
+        ],
+        "recommendedHashtags": [
+            "#RenuOberoiJewels",
+            "#LuxuryReimagined",
+            "#JewelsOfElegance"
+        ],
+        "toneForPosts": "Exclusive, elegant, and celebratory. Posts should feel aspirational and offer a glimpse into the luxurious world of high-end jewelry."
+    },
+    "additionalNotes": "Avoid overly casual language. Maintain exclusivity in all communication, ensuring that the tone reflects the premium nature of the brand.",
+    "huggingface_model": "meta-llama/Llama-2-7b-chat-hf",
+    "logging_level": "INFO"
+}
